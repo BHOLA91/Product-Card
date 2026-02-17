@@ -5,7 +5,7 @@ body{
 .card{
     width: 60vw;
     height: 80vh;
-    background-color: rgba(103, 1, 27, 0.844);
+    background-color: rgb(69, 0, 18);
     position: absolute;
     top: 10vh;
     left: 20vw;
@@ -40,9 +40,9 @@ body{
     border: 2px solid black;
     border-radius: 40px;
     padding: 10px;
-    box-shadow: 7px -3px 20px 0px black;
+    box-shadow: 5px 3px 20px 0px rgb(133, 130, 126);
     background-color: black;
-    color: rgba(244, 219, 186, 0.932);
+    color: rgb(173, 172, 172);
     text-decoration: none;
 
 }
@@ -54,4 +54,30 @@ body{
     text-align: center;
     transform: scaleY(1.5);
     margin: 40px;
+    color: rgb(173, 172, 172);
+}
+.desc{
+    height: 18%;
+    font-size: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    
+    font-family: "Allura", cursive;
+    color: rgb(140, 122, 102);
+}
+.button{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    
+}
+.but{
+    border: 2px solid #8c7a66;
+    border-radius: 50px;
+    padding: 10px;
+    box-shadow: 5px 3px 20px 0px #695c4d;
+    background-color: rgb(255, 255, 255);
+    color: #8c7a66;
+    
+    text-decoration: none;
 }
