@@ -40,5 +40,3 @@ This project strengthened my understanding of:
 ## 💡 Why This Project?
 Instead of using frameworks, this card was built from scratch to reinforce core CSS fundamentals, ensuring a deeper understanding of how layouts work under the hood.
 
-
-Just tell me which vibe you want 👀
